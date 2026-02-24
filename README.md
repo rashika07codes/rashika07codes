@@ -67,3 +67,6 @@ Currently exploring advanced **Generative AI, workflow automation, and modern ap
 ---
 
 ![](https://visitcount.itsvg.in/api?id=rashika07codes&icon=7&color=8)
+
+## 🐍 Contribution Snake
+![](https://raw.githubusercontent.com/rashika07codes/rashika07codes/output/github-contribution-grid-snake-dark.svg)

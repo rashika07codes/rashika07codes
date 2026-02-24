@@ -114,8 +114,3 @@ I work end-to-end — **product planning → architecture → execution** — an
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rashika07codes&theme=tokyonight&no-frame=true"/>
-</p>

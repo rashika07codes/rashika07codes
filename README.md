@@ -1,40 +1,47 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hello+👋+I'm+Rashika+Sharma;Project+Manager+%7C+GenAI+Developer;AI-Powered+Apps+%7C+Websites+%7C+Automation+Systems;Independent+AI-Assisted+Product+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hello+👋+I'm+Rashika+Sharma;Project+Manager+%7C+GenAI+Developer;AI+Product+Builder+%7C+Automation+Engineer;Building+Apps+%7C+Websites+%7C+AI+Systems" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:1A1A2E&height=200&section=header&text=Rashika%20Sharma%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:141B2D&height=220&section=header&text=Rashika%20Sharma%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ---
 
-# 💫 About Me:
-Project Manager & Gen AI Developer at **Propvance IT Solutions Pvt. Ltd.**, focused on building scalable digital products through AI-driven development. I specialize in **application development, website creation, and intelligent automation systems**, combining strategic product execution with hands-on technical implementation.
+<h2 align="center">🧠 AI Product Builder • ⚡ Automation • 🚀 Rapid Execution</h2>
 
-I work on end-to-end product building — from planning and architecture to execution — leveraging modern AI workflows to create faster, smarter, and high-performance platforms. Passionate about independent product development, I actively build apps, web solutions, and automation systems using AI-powered approaches and rapid execution strategies.
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Powered-00E5FF?style=for-the-badge&logo=openai&logoColor=000"/>
+<img src="https://img.shields.io/badge/App%20Development-111827?style=for-the-badge&logo=react&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Web%20Solutions-111827?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Automation%20Systems-111827?style=for-the-badge&logo=n8n&logoColor=00E5FF"/>
+</p>
 
-Currently exploring advanced **Generative AI, workflow automation, and modern app & web development practices** to deliver scalable and future-ready solutions.
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
 
-🚀 Building AI-powered Apps | Websites | Automation Systems  
-⚡ Independent Product Builder using AI & Vibe Coding  
-💡 Project Management + GenAI Development  
+# 💫 About Me
+🚀 Project Manager & GenAI Developer at **Propvance IT Solutions Pvt. Ltd.**  
+⚡ Building AI-powered apps, websites & intelligent automation systems  
+🧠 Independent AI-Assisted Product Builder focused on scalable digital solutions  
+
+I combine **product strategy + hands-on development** to create high-performance platforms using modern AI workflows, rapid execution, and futuristic technology stacks.
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.behance.net/rashikasharma4"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://instagram.com/diary_of__rashikaa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rashikasharma16"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@Rashisharma"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.quora.com/profile/Rashika-Sharma-128"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>
-<a href="https://x.com/Raashika4586571"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="mailto:raashika.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/diary_of__rashikaa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 🚀 Core Development
 <p align="center">
@@ -51,7 +58,9 @@ Currently exploring advanced **Generative AI, workflow automation, and modern ap
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,nginx,githubactions"/>
 </p>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -59,16 +68,41 @@ Currently exploring advanced **Generative AI, workflow automation, and modern ap
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashika07codes&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashika07codes&layout=compact&theme=tokyonight"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rashika07codes&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
 
----
+## 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashika07codes&theme=react-dark"/>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rashika07codes&theme=darkhub&no-frame=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
 
 ## 🐍 Contribution Snake
-![](https://raw.githubusercontent.com/rashika07codes/rashika07codes/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/rashika07codes/rashika07codes/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=rashika07codes&icon=7&color=8)
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=rashika07codes&icon=7&color=8"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141B2D,100:0A0E27&height=120&section=footer&animation=fadeIn"/>
+</p>

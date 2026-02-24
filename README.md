@@ -22,11 +22,11 @@
 </p>
 
 # 💫 About Me
-🚀 Project Manager & GenAI Developer at **Propvance IT Solutions Pvt. Ltd.**  
-⚡ Building AI-powered apps, websites & intelligent automation systems  
-🧠 Independent AI-Assisted Product Builder focused on scalable digital solutions  
+🚀 **Project Manager & GenAI Developer** at **Propvance IT Solutions Pvt. Ltd.**  
+⚡ Delivering scalable digital products using AI-driven development and modern automation workflows.  
+🧠 Independent AI-assisted product builder focused on performance, scalability, and rapid execution.
 
-I combine **product strategy + hands-on development** to create high-performance platforms using modern AI workflows, rapid execution, and futuristic technology stacks.
+I bridge **product strategy and technical execution**, building applications, web platforms, and intelligent automation systems powered by modern AI workflows.
 
 ---
 
@@ -85,7 +85,7 @@ I combine **product strategy + hands-on development** to create high-performance
 
 ## 🏆 GitHub Trophies
 <p align="center">
-![](https://github-profile-trophy-git-main.vercel.app/?username=rashika07codes&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=rashika07codes&theme=tokyonight&no-frame=true"/>
 </p>
 
 <p align="center">
@@ -104,5 +104,5 @@ I combine **product strategy + hands-on development** to create high-performance
 </p>
 
 <p align="center">
-![](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,100:0A0E27&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,100:0A0E27&section=footer"/>
 </p>

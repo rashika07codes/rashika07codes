@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=false&vCenter=true&width=900&lines=Project+Manager+%7C+GenAI+Developer;AI-Powered+Apps+%7C+Websites+%7C+Automation+Systems;Independent+AI-Assisted+Product+Builder)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:1A1A2E&height=180&section=header&text=Rashika%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 # 💫 About Me:
 Project Manager & Gen AI Developer at **Propvance IT Solutions Pvt. Ltd.**, focused on building scalable digital products through AI-driven development. I specialize in **application development, website creation, and intelligent automation systems**, combining strategic product execution with hands-on technical implementation.
 

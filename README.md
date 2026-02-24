@@ -116,4 +116,6 @@ I work end-to-end — **product planning → architecture → execution** — an
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rashika07
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rashika07codes&theme=tokyonight&no-frame=true"/>
+</p>

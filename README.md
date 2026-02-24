@@ -85,7 +85,7 @@ I combine **product strategy + hands-on development** to create high-performance
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rashika07codes&theme=darkhub&no-frame=true&row=1&column=7"/>
+![](https://github-profile-trophy-git-main.vercel.app/?username=rashika07codes&theme=tokyonight)
 </p>
 
 <p align="center">
@@ -104,5 +104,5 @@ I combine **product strategy + hands-on development** to create high-performance
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141B2D,100:0A0E27&height=120&section=footer&animation=fadeIn"/>
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,100:0A0E27&section=footer)
 </p>
